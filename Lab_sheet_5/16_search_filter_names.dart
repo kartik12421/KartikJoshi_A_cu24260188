@@ -8,7 +8,7 @@ class SearchNames extends StatefulWidget {
 }
 
 class _SearchNamesState extends State<SearchNames> {
-  List<String> names = ["Gulshan", "Rahul", "Aman", "Ravi", "Priya"];
+  List<String> names = ["Kartik", "Rahul", "Aman", "Ravi", "Priya"];
   String search = "";
 
   @override

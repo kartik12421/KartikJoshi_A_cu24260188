@@ -10,7 +10,7 @@ void main() => runApp(MaterialApp(
           child: Column(mainAxisSize: MainAxisSize.min, children: [
             CircleAvatar(radius: 45,
               backgroundImage: NetworkImage('https://picsum.photos/100')),
-            Text('Gulshan Kumar', style: TextStyle(fontSize: 25)),
+            Text('Kartik Joshi', style: TextStyle(fontSize: 25)),
             Text('BCA Student'),
             Row(mainAxisSize: MainAxisSize.min, children: [
               Icon(Icons.email), Text(' gulshan@example.com'),

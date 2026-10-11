@@ -7,7 +7,7 @@ void main() => runApp(const MaterialApp(
         child: Padding(
           padding: EdgeInsets.all(20),
           child: Column(mainAxisSize: MainAxisSize.min, children: [
-            Text('Name: Gulshan Kumar'),
+            Text('Name: Kartik Joshi'),
             Text('Roll No: 101'),
             Text('Course: BCA'),
             Text('Semester: 5th'),

@@ -6,7 +6,7 @@ void main() => runApp(MaterialApp(
     body: Column(children: [
       ListTile(
         leading: CircleAvatar(child: Icon(Icons.person)),
-        title: Text('Gulshan Kumar'),
+        title: Text('Kartik Joshi'),
         subtitle: Text('BCA Student'),
       ),
       Row(mainAxisAlignment: MainAxisAlignment.spaceEvenly, children: [
